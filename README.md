@@ -1,9 +1,15 @@
-### 👋 Hi, I’m Ayushi Tripathy (@Ayushitripathy34)
+👋 Hi, I'm Ayushi Tripathy
 
-- 👀 I’m interested in power electronics, embedded systems, and nanomaterials.
-- 🌱 I’m currently learning Verilog HDL and advanced circuit design.
-- 💞️ I’m looking to collaborate on projects related to renewable energy, converter designs, and nanomaterial synthesis.
-- 📫 How to reach me: https://www.linkedin.com/in/ayushi-tripathy-21936a278
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I recently completed an internship at the Bhabha Atomic Research Centre!
+🎓 B.Tech in Electronics and Communication Engineering (ECE)
 
+💻 I'm interested in AI, Data Science, Embedded Systems, Power Electronics, and Computer Vision.
+
+🌱 I'm currently learning Machine Learning, Deep Learning, Python, and Embedded Systems.
+
+🚀 Internship Experience:
+• Bhabha Atomic Research Centre (BARC), Visakhapatnam
+• Centre for Medical Imaging Studies (CMIS)
+
+📂 My repositories include projects in Python, Java, Verilog HDL, data analysis, and digital electronics.
+
+📫 LinkedIn: https://www.linkedin.com/in/ayushi-tripathy-21936a278
